@@ -2,4 +2,4 @@
 /out/
 # будет игнорироваться относительно файла .gitignore
 .idea/
-target/
+/target
